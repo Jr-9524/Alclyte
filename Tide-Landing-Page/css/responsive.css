@@ -1,0 +1,107 @@
+@media (max-width: 1080px) {
+    .content-1{
+        font-size: 1.8rem;
+    }
+
+    .left-1{
+        padding: 12px;
+    }
+
+    .left-3, .right-3{
+        padding: 2rem;
+    }
+
+    .content-3 img{
+        width: 400px;
+    }
+
+    .left-4{
+        margin: 4rem 4rem 0 0rem;
+    }
+
+    .right-4{
+        display: none;
+    }
+
+    .content-4{
+        justify-content: center;
+    }
+
+    .leftText,
+    .rightText,
+    .text,
+    .section-5 h2 {
+        font-size: 2.5rem;
+    }
+}
+
+@media (max-width: 900px) {
+    .content-1{
+        font-size: 1.2rem;
+    }
+
+    .section-2{
+        height: 620px;
+    }
+
+    .content-1 button{
+        font-size: 18px;
+        padding: 8px 18px;
+    }
+
+    .content-3 img{
+        width: 300px;
+    }
+
+    .leftText,
+    .rightText,
+    .text,
+    .section-5 h2 {
+        font-size: 2rem;
+    }
+
+    .contact,.terms,.others{
+        padding: 1rem 5rem;
+    }
+}
+
+@media (max-width: 720px) {
+    .section-2{
+        height: 450px;
+    }
+
+    .left-2{
+        display: none;
+    }
+    .right-2{
+        width: 100%;
+    }
+
+    .content-2{
+        padding: 20px;
+        color: #fff;
+    }
+
+    .content-3 img{
+        width: 200px;
+    }
+
+    .section-4 h3{
+        font-size: 1.5rem;
+    }
+
+    .leftText,
+    .rightText,
+    .text,
+    .section-5 h2 {
+        font-size: 1.8rem;
+    }
+
+    .midText{
+        min-width: 200px;
+    }
+
+    .contact, .terms,.others{
+        padding: 1rem 3rem;
+    }
+}
